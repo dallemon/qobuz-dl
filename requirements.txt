@@ -1,7 +1,7 @@
-pathvalidate
-requests
-mutagen
-tqdm
+beautifulsoup4==4.12.3
+colorama==0.4.6
+mutagen==1.47.0
+pathvalidate==3.2.0
 pick==1.6.0
-beautifulsoup4
-colorama
+requests==2.31.0
+tqdm==4.66.1
